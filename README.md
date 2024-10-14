@@ -20,8 +20,7 @@ Be carefully if you are using [non-hermetic environment](https://github.com/xxh/
 ## Install
 From xxh repo:
 ```bash
-xxh +I xxh-plugin-prerun-dotfiles
-# or from any Github repo: xxh +I https://github.com/xxh/xxh-plugin-prerun-dotfiles
+xxh +I https://github.com/apokryff/xxh-plugin-prerun-dotfiles
 ```
 Connect:
 ```
