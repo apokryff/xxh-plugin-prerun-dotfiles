@@ -1,3 +1,3 @@
 
-source dotfiles/zsh/config/plugins.zsh
-source dotfiles/zsh/config/alias.zsh
+export ZDOTDIR="$HOME"/dotfiles/.config/zsh
+source $ZDOTDIR/.zshrc
